@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"IQ","l":"App"},{"p":"IQ","l":"CustomPuzzle"},{"p":"IQ","l":"DefaultPuzzle"},{"p":"IQ","l":"InvalidInputFormatException"},{"p":"IQ","l":"Puzzle"},{"p":"IQ","l":"PuzzleIO"},{"p":"IQ","l":"Shape"}];updateSearchResults();
