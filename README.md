@@ -11,6 +11,6 @@ oleh the one and only: Muhammad Luqman Hakim 13523044
 3. Nama file input/output ditambahkan nama directorynya\
 file input di ./input/, file output di ./test/\
 contoh masukan file input: input/test1.txt\
-contoh masukan file output: test/result1.txt\
+contoh masukan file output: test/result1.txt
 5. Beri nilai bagus\
 kalau bisa 100 :pray:
