@@ -1,6 +1,6 @@
 # IQ by Luqman
 Program untuk Tugas Kecil 1 Strategi Algoritma IF2211 2025\
-oleh the one and only: Muhammad Luqman Hakim 13523044\
+oleh the one and only: Muhammad Luqman Hakim 13523044
 
 ## Tutorial Menjalankan program
 1. Compile Program\
